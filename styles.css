@@ -8,7 +8,7 @@ body {
     overflow: hidden;
     width: 100%;
     height: 100%;
-    background-color: yellowgreen;
+    background-color: rgb(173, 255, 47);
 }
 
 #canvas {
@@ -17,4 +17,5 @@ body {
     left: 0;
     width: 100%;
     height: 100%;
+    transform-origin: top left;
 }
